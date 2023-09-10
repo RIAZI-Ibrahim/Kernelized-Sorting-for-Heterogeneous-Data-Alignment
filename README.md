@@ -6,7 +6,7 @@ This project focuses on aligning heterogeneous data using the **Kernelized Sorti
 ## Key Features
 - Implementation of Kernelized Sorting for data alignment.
 - Utilization of both Gaussian and kernel product-based kernels to measure similarity.
-- Fine-tuning of the $\sigma$ parameter for appropriate similarity values in the similarity matrix.
+- Fine-tuning of the **sigma** parameter for appropriate similarity values in the similarity matrix.
 - Application of the **Hungarian algorithm** for solving the linear assignment problem and finding the optimal permutation for data alignment.
 
 ## Results
